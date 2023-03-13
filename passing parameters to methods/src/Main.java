@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
         int a = 20, b = 10;
         increase(a,b);
+        //a & b are actual parameters
         System.out.println(a+ ":" +b);
     }
 }
